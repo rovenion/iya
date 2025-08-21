@@ -4,3 +4,4 @@ INCLUDE prolog.ink
 Раннее утро после бессонной ночи
 *[Порыбачить] -> prolog
 
+INCLUDE zavtrak.ink
