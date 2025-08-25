@@ -5,3 +5,4 @@ INCLUDE prolog.ink
 *[Порыбачить] -> prolog
 
 INCLUDE zavtrak.ink
+*[Позавтракать в кругу семьи] -> zavtrak
