@@ -9,3 +9,4 @@ INCLUDE zavtrak.ink
 
 *[Позавтракать в кругу семьи] -> zavtrak
 INCLUDE zerkalo.ink
+INCLUDE saida.ink
