@@ -4,6 +4,9 @@ INCLUDE prolog.ink
 Раннее утро после бессонной ночи
 *[Порыбачить] -> prolog
 
+INCLUDE vrroom.ink
+*[Пройти знакомым маршрутом] -> prolog
+
 INCLUDE zavtrak.ink
 
 #Location: Кают-компания №137 океанской платформы «Южный ветер»
