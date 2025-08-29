@@ -1,4 +1,5 @@
 :: saida 
+# Location: Комната Ии
 === saida ===
 # Location: Комната Ии
 
