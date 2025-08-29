@@ -73,4 +73,4 @@
 -> zerkalo_end 
 
 == zerkalo_end ==
--> saida 
+-> saida
