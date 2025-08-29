@@ -1,3 +1,4 @@
+:: saida 
 === saida ===
 # Location: Комната Ии
 
