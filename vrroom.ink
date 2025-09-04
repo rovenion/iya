@@ -1,5 +1,4 @@
 VAR isWellRested = false
-:: VR_Room_Roma
 #Location: Виар-комната океанской платформы «Южный ветер»
 
 == vrroom ==
