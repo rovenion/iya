@@ -1,4 +1,5 @@
 Раннее утро на океанской платформе "Южный ветер".
+-> prolog
 INCLUDE prolog.ink
 INCLUDE vrroom.ink
 INCLUDE zavtrak.ink
